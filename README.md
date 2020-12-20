@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/by_your_tether.jpg">
+<img src="assets/mpd_thruster_colorized.jpg">
 </p>
 
 RiveSunder here. I'm an interdisciplinary scientist broadly interested in exploring what it means to be an intelligent agent in the universe. I've worked largely in inverse problem solving and deep learning for optical microscopy in recent years. Currently I'm studying evolutionary and developmental algorithms as a path to intelligence, and in particular I am interested in issues of safety and meta-learning. 
