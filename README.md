@@ -23,7 +23,7 @@ Some things I've worked on:
  
 ### Writing 
 
-<strong>In addition to some commissioned writing assignments you may occasionally read on publications like Towards Data Science or KDNuggets, I have a few personal blogging projects:</strong>
+<strong><!-- In addition to some commissioned writing assignments you may occasionally read on publications like Towards Data Science or KDNuggets, -->I have a few personal blogging projects:</strong>
 
 * [theScinder](https://thescinder.com) ([Medium version](https://medium.com/the-scinder)). Essays of general interest on topics related to the practice and produce of science. Following feedback, I've been doing my best to make the articles on this blog more approachable and interesting for all levels of technical ability. I used to also describe my machine learning projects here, but I've since moved technical writeups to a dedicated blog.
 * [RiveSunder Blog](https://rivesunder.gitlab.io). Writeups for some of my projects in machine learning. 
