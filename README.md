@@ -2,23 +2,14 @@
 <img src="assets/mpd_thruster_colorized.jpg">
 </p>
 
-RiveSunder here. I'm an interdisciplinary scientist broadly interested in exploring what it means to be an intelligent agent in the universe. I've worked largely in inverse problem solving and deep learning for optical microscopy in recent years. Currently I'm studying evolutionary and developmental algorithms as a path to intelligence, and in particular I am interested in issues of safety and meta-learning. 
-
-<!--
-Some things I've worked on:
-
-* Humanized yeast with human ATP synthase, intended for high throughput screening of rare mitochondrial disease drug candidates.
-* Fed attenuated _Salmonella_ and lab-standard _Escherichia coli_ to _Acanthamoeba castellanii_ to determine that, yep, soil amoebae don't like to eat nasty pathogens either.
-* Picked up and pulled on individual kinesin proteins, using light for fingers.
-* Used defocus and chromatic aberration in ordinary microscopes to distill clear images of the transparent skeletal elements of cells (microtubules), ~4,000 times thinner than a human hair, from single noisy images. I also used interference in reflected light to the same end. 
--->
+RiveSunder here. I'm an interdisciplinary scientist broadly interested in exploring what it means to be an intelligent agent in this universe. I've worked largely in inverse problem solving and deep learning for optical microscopy in recent years. Currently I'm studying evolutionary and developmental algorithms as a path to intelligence, and in particular I am interested in issues of safety and meta-learning. 
 
 ---
 
 ### Projects I've been working on recently
 * [Bootstrapping Deep Neuroevolution and Developmental Learning](https://github.com/rivesunder/bevodevo). `bevodevo` is a resource for studying and experimenting with a range of evolutionary and developmental algorithms, currently with an emphasis on episodic reinforcement learning tasks but I hope to include ideas from open-endedness soon. 
 * [Differentiable Cellular Automata](https://github.com/rivesunder/dca). `dca` is a project where I explore the confluence of ideas from differentiable programming, neural networks, and cellular automata, along the lines of Distill's thread on [Differentiable Self-Organizing Systems](https://distill.pub/2020/selforg/). 
-* [DockRL](https://github.com/rivesunder/dockrl). Molecular docking wrapped in a reinforcement learning environment with optimization of the protein-ligand re-docking problem with covariant matrix adaptation evolution strategies. 
+* [DockRL](https://github.com/rivesunder/dockrl). Molecular docking wrapped in a reinforcement learning environment with optimization of the protein-ligand re-docking problem via covariant matrix adaptation evolution strategies. 
 * [Policy Generating Evolved Networks](https://github.com/rivesunder/pgens). An approach to neuroevolution that evolves a meta-policy defining a distribution of policies for solving RL problems. Think evolved GANs for generating a diverse spectrum of policies based on fitness in a given RL environment.
  
 ### Writing 
