@@ -2,7 +2,7 @@
 <img src="assets/mpd_thruster_colorized.jpg">
 </p>
 
-RiveSunder here. I'm an interdisciplinary scientist broadly interested in exploring what it means to be an intelligent agent in this universe. I've worked largely in inverse problem solving and deep learning for optical microscopy in recent years. Currently I'm studying evolutionary and developmental algorithms as a path to intelligence, and in particular I am interested in issues of safety and meta-learning. 
+RiveSunder here. I'm an interdisciplinary scientist broadly interested in exploring what it means to be an intelligent agent in this universe. I dedicated a significant portion of my life to inverse problem solving and deep learning for optical microscopy, most recently at a super-resolution startup called [Oxford Nanoimaing](https://oni.bio). Before that I worked on problems in adaptive optics microscopy at [Oxford University](http://www2.eng.ox.ac.uk/dop). Currently I'm studying evolutionary and developmental algorithms as a path to intelligence, and in particular I am interested in issues of safety and meta-learning. 
 
 ---
 
