@@ -25,7 +25,7 @@ RiveSunder here. I'm an interdisciplinary scientist broadly interested in explor
 
 The best way to get in touch with me is probably via email. I use Protonmail and you can guess my address from my GitHub username. You can also find me 
 
-* on Twitter: [@rivsesunder](https://twitter.com/rivesunder)
+* on Twitter: [@rivesunder](https://twitter.com/rivesunder)
 
 <p align="center">
 <img src="assets/pikachu_explodes.gif">
