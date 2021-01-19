@@ -16,6 +16,7 @@ Some things I've worked on:
 ---
 
 ### Projects I've been working on recently
+* [CARLE](https://rivesunder.github.io/carle). CARLE is an open-ended challenge in complexity from simplicity and creative machine intelligence. CARLE stands for Cellular Automata Reinforcement Learning Environment and supports execution of arbitrary Life-like cellular automata rules. With vectorization and acceleration on a single GPU, CARLE can execute more than 150,000 CA time steps per second. 
 * [Bootstrapping Deep Neuroevolution and Developmental Learning](https://github.com/rivesunder/bevodevo). `bevodevo` is a resource for studying and experimenting with a range of evolutionary and developmental algorithms, currently with an emphasis on episodic reinforcement learning tasks but I hope to include ideas from open-endedness soon. 
 * [Differentiable Cellular Automata](https://github.com/rivesunder/dca). `dca` is a project where I explore the confluence of ideas from differentiable programming, neural networks, and cellular automata, along the lines of Distill's thread on [Differentiable Self-Organizing Systems](https://distill.pub/2020/selforg/). 
 * [DockRL](https://github.com/rivesunder/dockrl). Molecular docking wrapped in a reinforcement learning environment with optimization of the protein-ligand re-docking problem with covariant matrix adaptation evolution strategies. 
