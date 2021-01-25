@@ -15,7 +15,8 @@ This portfolio includes work where I was the primary or sole contributor unless 
 
 #### [DockRL](https://github.com/rivesunder/DockRL).
 Molecular docking wrapped in a reinforcement learning environment with optimization of the protein-ligand re-docking problem via covariant matrix adaptation evolution strategies.
-<!-- #### [RamaNN Chemometrics](https://github.com/rivesunder/ramann-metrics).  -->
+#### [RamaNN Chemometrics](https://github.com/rivesunder/ramann-metrics). 
+A branched MLP for classification and dimensionality reduction for Raman spectra. A non-linear alternative to PCA/LDA chemometrics workflows.
 #### [MetabolSim (2011)](https://github.com/rivesunder/metabolsim). 
 A numerical simulator for metabolic networks described in a netlist with Michaelis-Menten kinetics. My first Python project.
 #### [Circular Dichroism Solver (2010)](https://github.com/riveSunder/MetabolSim/blob/master/circDichroismSolver.m). 
