@@ -64,6 +64,6 @@ A rocket-themed RL environment with tasks like rocket landing and balancing, usi
 * **[Synaptolytic Learning](https://github.com/riveSunder/synaptolytic-learning)**. 
 Evolution-based learning algorithms based on random and Hebbian-informed neural pruning. 
 * **[Learning Rubik's Cube with Reinforcement Learning](https://github.com/riveSunder/lrcuberl)**. 
-A text-based Rubik's cube environment with an implementation of DQN ([Mnih _et al. 2014](https://deepmind.com/research/publications/human-level-control-through-deep-reinforcement-learning))
+A text-based Rubik's cube environment with an implementation of DQN ([Mnih *et al.* 2014](https://deepmind.com/research/publications/human-level-control-through-deep-reinforcement-learning))
 
 
