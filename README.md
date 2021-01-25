@@ -6,7 +6,7 @@ RiveSunder here. I'm an interdisciplinary scientist broadly interested in explor
 
 ---
 
-For an annotated portfolio of my work in categories like computational chemistry and computer vision, see my [portfolio](portofolio.md).
+For an annotated portfolio of my work in categories like computational chemistry and computer vision, see my [portfolio](portfolio.md).
 
 ### What I'm Currently Cooking
 * [CARLE](https://rivesunder.github.io/carle). CARLE is an open-ended challenge in complexity from simplicity and creative machine intelligence, **recently accepted as an official competition at [IEEE's Conference on Games](https://ieee-cog.org/2021/)**. CARLE stands for Cellular Automata Reinforcement Learning Environment and supports execution of arbitrary Life-like cellular automata rules. With vectorization and acceleration on a single GPU, CARLE can execute more than 150,000 CA time steps per second. 
