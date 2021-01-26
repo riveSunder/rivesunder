@@ -19,7 +19,7 @@ Molecular docking wrapped in a reinforcement learning environment with optimizat
 A branched MLP for classification and dimensionality reduction for Raman spectra. A non-linear alternative to PCA/LDA chemometrics workflows.
 * **[MetabolSim (2011)](https://github.com/rivesunder/metabolsim).**
 A numerical simulator for metabolic networks described in a netlist with Michaelis-Menten kinetics. My first Python project.
-* **[Circular Dichroism Solver (2010)](https://github.com/riveSunder/MetabolSim/blob/master/circDichroismSolver.m).**
+* **[Circular Dichroism Solver (2010)](https://github.com/riveSunder/circular-dichroism-hillclimber).**
 Written in MATLAB, I wrote this simple hill-climbing algorithm to solve circular dichroism spectra from a protein structure lab course. Perhaps my first machine learning project.
 
 ## Computer Vision
