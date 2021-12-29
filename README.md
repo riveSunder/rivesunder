@@ -12,7 +12,7 @@ RiveSunder here. I'm a human person interested in exploring and respecting this 
 
 ### Current Pursuits
  
-* I am currently working on simulating soft robotics and on generalizing the world of cellular automata. 
+* I am currently working on simulating soft robotics and on generalizing a few cellular automata universes. 
 
 * After something of a hiatus, I plan to update [Bootstrapping Deep Neuroevolution and Developmental Learning](https://github.com/rivesunder/bevodevo) over the next year or so. `bevodevo` is a resource for studying and experimenting with a range of evolutionary and developmental algorithms, currently with an emphasis on episodic reinforcement learning tasks but I hope to include ideas from open-endedness soon. 
 
@@ -23,7 +23,7 @@ RiveSunder here. I'm a human person interested in exploring and respecting this 
 * **Carle's Game** was part of the [2021 IEEE Conference on Games](https://ieee-cog.org/2021/index.html#competitions_section) as a fairly unsuccessful competition with 0 entries. The project yielded a [proceedings paper](https://ieee-cog.org/2021/assets/papers/paper_329.pdf), a [Life-like cellular automata library](https://github.com/rivesunder/carles_game), a [t-shirt](https://rivesunder.threadless.com/designs/puffer-progression), and [several](https://ieee-cog.org/2021/assets/papers/paper_329.pdf) example/baseline [submissions](https://github.com/rivesunder/moving_in_morley). While I likely won't do the contest again due to the low turnout, if I do I will incorporate a broader swath of grid-based cellular automata, including [Lenia](https://arxiv.org/abs/1812.05433) and [Expanded Universe](https://arxiv.org/abs/2005.03742), and [SmoothLife](https://arxiv.org/abs/1111.1567v2), particularly discovering and exploring new artificial ecologies and taxonomies.
 
 <div align="center">
- <img src="https://github.com/riveSunder/harli_learning/blob/master/assets/orbia.gif">
+ <img src="assets/orbia.gif">
  </div>
 
 * [DockRL](https://github.com/rivesunder/dockrl). Molecular docking wrapped in a reinforcement learning environment with optimization of the protein-ligand re-docking problem via covariant matrix adaptation evolution strategies. 
