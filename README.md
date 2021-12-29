@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/mpd_thruster_colorized.jpg">
+<img src="assets/mpd_thruster_colorized.jpg" width=95%>
 </p>
 
 RiveSunder here. I'm a human person interested in exploring and respecting this and other possible universes. Currently I work at an North American University on evolutionary algorithms and complexity. Previously I worked on machine learning for computational drug design, and before that I worked on inverse problem solving for microscopy.
@@ -7,7 +7,7 @@ RiveSunder here. I'm a human person interested in exploring and respecting this 
 ---
 
 <div align="center">
- <img src="https://github.com/riveSunder/harli_learning/blob/master/assets/flying_brain_dotlife.png">
+ <img src="https://github.com/riveSunder/harli_learning/blob/master/assets/flying_brain_dotlife.png" width=50%>
  </div>
 
 ### Current Pursuits
@@ -23,7 +23,7 @@ RiveSunder here. I'm a human person interested in exploring and respecting this 
 * **Carle's Game** was part of the [2021 IEEE Conference on Games](https://ieee-cog.org/2021/index.html#competitions_section) as a fairly unsuccessful competition with 0 entries. The project yielded a [proceedings paper](https://ieee-cog.org/2021/assets/papers/paper_329.pdf), a [Life-like cellular automata library](https://github.com/rivesunder/carles_game), a [t-shirt](https://rivesunder.threadless.com/designs/puffer-progression), and [several](https://ieee-cog.org/2021/assets/papers/paper_329.pdf) example/baseline [submissions](https://github.com/rivesunder/moving_in_morley). While I likely won't do the contest again due to the low turnout, if I do I will incorporate a broader swath of grid-based cellular automata, including [Lenia](https://arxiv.org/abs/1812.05433) and [Expanded Universe](https://arxiv.org/abs/2005.03742), and [SmoothLife](https://arxiv.org/abs/1111.1567v2), particularly discovering and exploring new artificial ecologies and taxonomies.
 
 <div align="center">
- <img src="assets/orbia.gif">
+ <img src="assets/orbia.gif" width=50%>
  </div>
 
 * [DockRL](https://github.com/rivesunder/dockrl). Molecular docking wrapped in a reinforcement learning environment with optimization of the protein-ligand re-docking problem via covariant matrix adaptation evolution strategies. 
@@ -49,7 +49,7 @@ The best way to get in touch with me is probably via email. I use Protonmail and
 * on Twitter: [@rivesunder](https://twitter.com/rivesunder)
 
 <p align="center">
-<img src="assets/pikachu_explodes.gif">
+<img src="assets/pikachu_explodes.gif" width=50%>
 <br>
 <em>Futurologists discussing AI safety rarely considered the possibility of the Pikagoo doomsday scenario.</em>
 </p>
