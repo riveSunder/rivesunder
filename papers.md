@@ -1,4 +1,4 @@
-# publications
+# Publications
 
 ## Peer-reviewed
 
