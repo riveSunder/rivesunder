@@ -1,5 +1,7 @@
 # Publications
 
+_See also: [casual projects](https://github.com/riveSunder/rivesunder/blob/master/portfolio.md)_
+
 ## Peer-reviewed
 
 * Q. Tyrell Davis and Josh Bongard. Glaberish: Generalizing the Continuously-
