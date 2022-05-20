@@ -32,7 +32,7 @@ RiveSunder here. I'm a human person interested in exploring and respecting this 
 
 [More projects](portfolio.md).
 
-[My Publications](papers.md)
+[My publications](papers.md)
 
 ### Writing 
 
