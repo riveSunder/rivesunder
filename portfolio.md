@@ -1,5 +1,5 @@
 # Portfolio
-
+_See also: [published papers](https://github.com/riveSunder/rivesunder/blob/master/papers.md)_
 ## Themes
 
 This portfolio includes work where I was the primary or sole contributor unless otherwise noted. 
