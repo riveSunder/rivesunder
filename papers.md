@@ -13,9 +13,7 @@ Continuous Cellular Automata. Accepted to the 2022 Conference on Artificial Life
 
 * Q. Tyrell Davis and Josh Bongard. Selecting Continuous Life-Like Cellular
 Automata for Halting Unpredictability: Evolving for Abiogenesis. Accepted to
-GECCO: Genetic and Evolutionary Computation Conference. 2022. [https://
-arxiv.org/abs/2204.07541](https://
-arxiv.org/abs/2204.07541)
+GECCO: Genetic and Evolutionary Computation Conference. 2022. [https://arxiv.org/abs/2204.07541](https://arxiv.org/abs/2204.07541)
 
 * Jannasch, Anita et al. "Fast 3D imaging of giant unilamellar vesicles using reflected light‐sheet microscopy with single molecule sensitivity." Journal of Microscopy 285 (2021): 40 - 51. [pdf](assets/jannasch_schaeffer_etal_2021.pdf) [Journal of Microscopy](https://onlinelibrary.wiley.com/doi/full/10.1111/jmi.13070) [Biorxiv](https://www.biorxiv.org/content/10.1101/2020.06.26.174102v1)
 
