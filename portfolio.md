@@ -1,5 +1,5 @@
 # Portfolio
-
+_See also: [published papers](https://github.com/riveSunder/rivesunder/blob/master/papers.md)_
 ## Themes
 
 This portfolio includes work where I was the primary or sole contributor unless otherwise noted. 
@@ -54,7 +54,7 @@ Identifying the presence or absence of cacti in aerial images, essentially a lin
 * **[Policy Generating Evolved Networks](https://github.com/riveSunder/pgens)**. 
 Training meta-policies that generate multiple agent policies using evolutionary strategies.
 * **[OpenSafety](https://github.com/riveSunder/OpenSafety)**. 
-A reinforcement learning environment with several safety-related robotics control tasks, using the physics simulator PyBullet. [SafeAgetns](https://github.com/riveSunder/SafeAgents) implements evolutionary strategies with multiple (reward and safety) fitness consideration. 
+A reinforcement learning environment with several safety-related robotics control tasks, using the physics simulator PyBullet. [SafeAgents](https://github.com/riveSunder/SafeAgents) implements evolutionary strategies with multiple (reward and safety) fitness consideration. 
 * **[rl-simple-games](https://github.com/riveSunder/rl-simple-games)**. 
 Text-based reinforcement learning environment for simple games Hexapawn, Sim, and Tic-Tac-Toe (aka Naughts and Crosses). 
 * **[RobothorAgents](https://github.com/riveSunder/RobothorAgents)**. 
