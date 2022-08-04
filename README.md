@@ -18,7 +18,7 @@ RiveSunder here. I'm a human person interested in exploring and respecting this 
 
 ### Current Pursuits
  
-* A lot of my attention has recently gone to [Your Universal Cellular Automata](https://github.com/rivesunder/yuca), a continuous cellular automata research library. This library has been used to power a few peer-reviewed publications, links to the pre-prints and supporting resources are consolibated at [https://rivesunder.github.io/yuca](https://rivesunder.github.io/yuca). I'm also working on a few other projects on evolutionary/developmental algorithms and simulating soft robotics.
+* A lot of my attention has recently gone to [Your Universal Cellular Automata](https://github.com/rivesunder/yuca), a continuous cellular automata research library. This library has been used to power a few peer-reviewed publications, links to the pre-prints and supporting resources are consolidated at [https://rivesunder.github.io/yuca](https://rivesunder.github.io/yuca). I'm also working on a few other projects on evolutionary/developmental algorithms and simulating soft robotics.
 
 <!--- * After something of a hiatus, I plan to update [Bootstrapping Deep Neuroevolution and Developmental Learning](https://github.com/rivesunder/bevodevo) over the next year or so. `bevodevo` is a resource for studying and experimenting with a range of evolutionary and developmental algorithms, currently with an emphasis on episodic reinforcement learning tasks but I hope to include ideas from open-endedness soon. 
 
@@ -44,7 +44,7 @@ RiveSunder here. I'm a human person interested in exploring and respecting this 
 
 ### Writing 
 
-* [theScinder](https://thescinder.com) ([Medium version](https://medium.com/the-scinder)). Essays of general interest on topics related to the practice and produce of science. Following feedback, I've been doing my best to make the articles on this blog more approachable and interesting for all levels of technical ability. I used to also describe my machine learning projects here, but I've since moved technical writeups to a dedicated blog.
+* [theScinder](https://thescinder.com) ([Medium version](https://medium.com/the-scinder)). Essays of general interest on topics related to the practice and produce of science. Following feedback, I've been doing my best to make the articles on this blog more approachable and interesting for all levels of technical ability. I used to also describe my machine learning projects here, but I've since moved technical write-ups to a dedicated blog.
 * [RiveSunder Blog](https://rivesunder.gitlab.io). Writeups for some of my projects in machine learning. 
 * [SortaSota](https://medium.com/sorta-sota). A blog where I try to explain things as simply as possible, but no simpler, mainly in tutorial format. In part I started this blog to give myself permission to teach skills and write about ML topics that are not necessarily at the cutting edge. It's state of _an_ art, just not state of _the_ art. 
 -->
