@@ -19,4 +19,4 @@ _See also: [casual projects](https://github.com/riveSunder/rivesunder/blob/maste
 
 * Davis, Q. Tyrell. "Transport of Intensity Equation Microscopy for Dynamic Microtubules." arXiv: Optics (2017): [pdf](assets/davis_2017.pdf) [arXiv:1707.04139](https://arxiv.org/abs/1707.04139)
 
-* Davis, Q. Tyrell. "Intention to explore the role of discretization in the emergence of self-organization in certain approximations of continuous cellular automata and other complex dynamic systems." (2022). [arXiv:2208:09444](https://arxiv.org/abs/2208.09444) (This is a project/paper proposal)
+* Davis, Q. Tyrell. "Intention to explore the role of discretization in the emergence of self-organization in certain approximations of continuous cellular automata and other complex dynamic systems." (2022). [pdf](assets/arxiv_2208_09444.pdf) - [arXiv:2208:09444](https://arxiv.org/abs/2208.09444) (This is a project/paper proposal)
