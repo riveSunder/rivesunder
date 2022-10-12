@@ -10,7 +10,7 @@ This portfolio includes work where I was the primary or sole contributor unless 
 * [Evolutionary Strategies](#es)
 
 
-## Computational Chemistry
+## Computational/Chemistry
 <a name="#compchem"></a>
 
 * **[DockRL](https://github.com/rivesunder/DockRL).**
@@ -45,25 +45,27 @@ Classifying images from th [Sign-Language MNIST](https://www.kaggle.com/datamung
 * **Aerial Cactus Identification with DenseNet121 (keras) [Kaggle Notebook](https://www.kaggle.com/rivesunder/headless-densenet-with-keras)**. 
 Identifying the presence or absence of cacti in aerial images, essentially a line detector. This notebook was the basis for achieving 100% accuracy in Kaggle's [Aerial Cactus Identification](https://www.kaggle.com/c/aerial-cactus-identification) challenge. 
 
-### Reinforcement Learning and Evolutionary Strategies
+### Reinforcement Learning Environments, Algorithms, and Policies
 <a name="#rl"></a>
 <a name="#es"></a>
 
-* **[Boostrapping Evolutionary and Developmental Learning](https://github.com/rivesunder/bevodevo)**. 
-`bevodevo` is a resource for studying and experimenting with a range of evolutionary and developmental algorithms, currently with an emphasis on episodic reinforcement learning tasks.
-* **[Policy Generating Evolved Networks](https://github.com/riveSunder/pgens)**. 
-Training meta-policies that generate multiple agent policies using evolutionary strategies.
+* **[DockRL](https://github.com/rivesunder/DockRL).** 
+Molecular docking wrapped in a reinforcement learning environment with optimization of the protein-ligand re-docking problem via covariant matrix adaptation evolution strategies. _ES, Env_
+* **[Boostrapping Evolutionary and Developmental Learning](https://github.com/rivesunder/bevodevo)**.
+`bevodevo` is a resource for studying and experimenting with a range of evolutionary and developmental algorithms, currently with an emphasis on episodic reinforcement learning tasks. _ES, Envs_
+* **[Policy Generating Evolved Networks](https://github.com/riveSunder/pgens)**.
+Training meta-policies that generate multiple agent policies using evolutionary strategies.  _ES_
 * **[OpenSafety](https://github.com/riveSunder/OpenSafety)**. 
-A reinforcement learning environment with several safety-related robotics control tasks, using the physics simulator PyBullet. [SafeAgents](https://github.com/riveSunder/SafeAgents) implements evolutionary strategies with multiple (reward and safety) fitness consideration. 
+A reinforcement learning environment with several safety-related robotics control tasks, using the physics simulator PyBullet. [SafeAgents](https://github.com/riveSunder/SafeAgents) implements evolutionary strategies with multiple (reward and safety) fitness consideration. _Env_
 * **[rl-simple-games](https://github.com/riveSunder/rl-simple-games)**. 
-Text-based reinforcement learning environment for simple games Hexapawn, Sim, and Tic-Tac-Toe (aka Naughts and Crosses). 
+Text-based reinforcement learning environment for simple games Hexapawn, Sim, and Tic-Tac-Toe (aka Naughts and Crosses). _RL, Env_
 * **[RobothorAgents](https://github.com/riveSunder/RobothorAgents)**. 
-A repository demonstrating computer vision off-task/pre-training for the [Robothor](https://ai2thor.allenai.org/robothor/challenge/) challenge environment from the [Allen Institute for AI](https://allenai.org/). 
+A repository demonstrating computer vision off-task/pre-training for the [Robothor](https://ai2thor.allenai.org/robothor/challenge/) challenge environment from the [Allen Institute for AI](https://allenai.org/). _RL_
 * **[RocketGym](https://github.com/riveSunder/RLRocketGym)**. 
-A rocket-themed RL environment with tasks like rocket landing and balancing, using the permissively-licensed PyBullet physics simulator.
+A rocket-themed RL environment with tasks like rocket landing and balancing, using the permissively-licensed PyBullet physics simulator. _Env_
 * **[Synaptolytic Learning](https://github.com/riveSunder/synaptolytic-learning)**. 
-Evolution-based learning algorithms based on random and Hebbian-informed neural pruning. 
+Evolution-based learning algorithms based on random and Hebbian-informed neural pruning. _ES_
 * **[Learning Rubik's Cube with Reinforcement Learning](https://github.com/riveSunder/lrcuberl)**. 
-A text-based Rubik's cube environment with an implementation of DQN ([Mnih *et al.* 2014](https://deepmind.com/research/publications/human-level-control-through-deep-reinforcement-learning))
+A text-based Rubik's cube environment with an implementation of DQN ([Mnih *et al.* 2014](https://deepmind.com/research/publications/human-level-control-through-deep-reinforcement-learning)). _Env, RL_
 
 
