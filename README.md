@@ -2,7 +2,7 @@
 <img src="assets/mpd_thruster_colorized.jpg" width=95%>
 </p>
 
-RiveSunder here. I'm a human person interested in exploring and respecting this and other possible universes. Currently I work as a postdoc working on evolutionary algorithms and complexity. Previously I worked on machine learning for computational drug design, and before that I worked on inverse problem solving for microscopy.
+RiveSunder here. I'm a human person interested in exploring and respecting this and other possible universes.
 
 ---
 
