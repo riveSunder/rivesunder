@@ -2,7 +2,7 @@
 <img src="assets/mpd_thruster_colorized.jpg" width=95%>
 </p>
 
-RiveSunder here. I'm a human person interested in exploring and respecting this and other possible universes. Currently I work as a postdoc working on evolutionary algorithms and complexity. Previously I worked on machine learning for computational drug design, and before that I worked on inverse problem solving for microscopy.
+RiveSunder here. I'm a human person interested in exploring and respecting this and other possible universes.
 
 ---
 
@@ -16,41 +16,40 @@ RiveSunder here. I'm a human person interested in exploring and respecting this 
  <img src="https://github.com/riveSunder/harli_learning/blob/master/assets/flying_brain_dotlife.png" width=50%>
  </div>
 
-### Current Pursuits
- 
-* A lot of my attention has recently gone to [Your Universal Cellular Automata](https://github.com/rivesunder/yuca), a continuous cellular automata research library. This library has been used to power a few peer-reviewed publications, links to the pre-prints and supporting resources are consolidated at [https://rivesunder.github.io/yuca](https://rivesunder.github.io/yuca). I'm also working on a few other projects on evolutionary/developmental algorithms and simulating soft robotics.
+### Recent Activity
 
-<!--- * After something of a hiatus, I plan to update [Bootstrapping Deep Neuroevolution and Developmental Learning](https://github.com/rivesunder/bevodevo) over the next year or so. `bevodevo` is a resource for studying and experimenting with a range of evolutionary and developmental algorithms, currently with an emphasis on episodic reinforcement learning tasks but I hope to include ideas from open-endedness soon. 
-
-* **[OpenSafety](https://github.com/rivesunder/opensafety)** Although DeepMind's acquisition and open-source plans for the [MuJoCo](https://deepmind.com/blog/announcements/mujoco) physics simulator has made my original motivation for building [OpenSafety](https://github.com/rivesunder/opensafety) irrelevant, there is still plenty to explore in the world of constrained RL and the control problem. I plan to use the library to explore the reward hypothesis (aka the reinforcement learning hypothesis) and to add additional tasks with an eye toward soft robotics and sim2real. --->
-
+* I'm very proud to have been part of the intern project completed by `tanishagerg` on modeling plant pattern formation using neural cellular automata: **[https://tanishagerg.github.io/SRNCA/pages/blogpost.html](https://tanishagerg.github.io/SRNCA/pages/blogpost.html)**
 
 <div align="center">
- <!--<img src="assets/orbia.gif" width=50%>-->
- <img src="https://github.com/riveSunder/rivesunder/blob/master/assets/share/supplemental_item_1_step_size_behavior.gif" width=50%>
+ <img src="https://github.com/riveSunder/rivesunder/blob/master/assets/texture_ca.gif" width=25%>
  </div>
 
-<!--
-### Previous Projects
+* In 2022 I developed **[Your Universal Cellular Automata](https://github.com/rivesunder/yuca)**, a research library for working with continuous cellular automata. `yuca` powered 3 publications during my work at the University of Vermont, and a current research project examining the role of systematic simulation error in self-organizing systems: [https://rivesunder.github.io/DisContinuous](https://rivesunder.github.io/DisContinuous)
 
-* **Carle's Game** was part of the [2021 IEEE Conference on Games](https://ieee-cog.org/2021/index.html#competitions_section) as a fairly unsuccessful competition with 0 entries. The project yielded a [proceedings paper](https://ieee-cog.org/2021/assets/papers/paper_329.pdf), a [Life-like cellular automata library](https://github.com/rivesunder/carles_game), a [t-shirt](https://rivesunder.threadless.com/designs/puffer-progression), and [several](https://ieee-cog.org/2021/assets/papers/paper_329.pdf) example/baseline [submissions](https://github.com/rivesunder/moving_in_morley). While I likely won't do the contest again due to the low turnout, if I do I will incorporate a broader swath of grid-based cellular automata, including [Lenia](https://arxiv.org/abs/1812.05433) and [Expanded Universe](https://arxiv.org/abs/2005.03742), and [SmoothLife](https://arxiv.org/abs/1111.1567v2), particularly discovering and exploring new artificial ecologies and taxonomies.
+<div align="center">
+ <img src="https://github.com/riveSunder/rivesunder/blob/master/assets/share/supplemental_item_1_step_size_behavior.gif" width=25%>
+ </div>
 
+* After finishing experiments on DisContinuous I plan on devoting significant attention to my embryonic graph and transformer-based deep learning library [Sepia](https://github.com/Cogibra/Sepia), with an interest in applications to biological sequences and systems and symbolic regression. 
 
-* [DockRL](https://github.com/rivesunder/dockrl). Molecular docking wrapped in a reinforcement learning environment with optimization of the protein-ligand re-docking problem via covariant matrix adaptation evolution strategies. 
+* **[OpenSafety](https://github.com/rivesunder/opensafety)** (2020 and 2021) I built OpenSafety as an accesbile reinforcement learning gym for experimenting with the safety-focused control problems, oringally as an open-source alternative to OpenAI's MuJoCo-dependent [Safety Gym](https://github.com/openai/safety-gym). OpenSafety includes 11 environments/tasks, each with a safety constraint and multiple levels of difficulty. 
 
-* [Policy Generating Evolved Networks](https://github.com/rivesunder/pgens). An approach to neuroevolution that evolves a meta-policy defining a distribution of policies for solving RL problems. Think evolved GANs for generating a diverse spectrum of policies based on fitness in a given RL environment.
+<div align="center">
+ <img src="https://github.com/riveSunder/rivesunder/blob/master/assets/kuka_tower_falling.png" width=25%>
+ </div>
 
+* **[CARLE](https://github.com/rivesunder/carles)** and [CARLE's Game](https://github.com/rivesunder/carles_game) is a fast (up to ~100,000 64 by 64 cell grid updates per second) Life-like cellular automata simulator, and a challenge in open-ended RL and reward shaping (presented at the 2020 IEEE Conference on Games). 
 
+<div align="center">
+ <img src="https://github.com/riveSunder/rivesunder/blob/master/assets/strategy_demo_127.gif" width=25%>
+ </div>
 
-### Writing 
+* **[BevoDevo](https://github.com/rivesunder/bevodevo)** is my library for evolutionary and development learning algorithms applied to reinforcement learning-structure problems. 
 
-* [theScinder](https://thescinder.com) ([Medium version](https://medium.com/the-scinder)). Essays of general interest on topics related to the practice and produce of science. Following feedback, I've been doing my best to make the articles on this blog more approachable and interesting for all levels of technical ability. I used to also describe my machine learning projects here, but I've since moved technical write-ups to a dedicated blog.
-* [RiveSunder Blog](https://rivesunder.gitlab.io). Writeups for some of my projects in machine learning. 
-* [SortaSota](https://medium.com/sorta-sota). A blog where I try to explain things as simply as possible, but no simpler, mainly in tutorial format. In part I started this blog to give myself permission to teach skills and write about ML topics that are not necessarily at the cutting edge. It's state of _an_ art, just not state of _the_ art. 
--->
+<div align="center">
+ <img src="https://github.com/riveSunder/rivesunder/blob/master/assets/cmaes_inverteddoublependulum.gif" width=25%>
+ </div>
 
-* here, on GitHub
-* on Twitter: [@rivesunder](https://twitter.com/rivesunder)
 
 <p align="center">
 <img src="assets/pikachu_explodes.gif" width=50%>
