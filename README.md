@@ -8,7 +8,9 @@ RiveSunder here.
 
 [Publications](papers.md)
 
-[Projects](portfolio.md)
+[Projects](project_portfolio.md)
+
+[Writing](writing_portfolio.md)
 
 ---
 

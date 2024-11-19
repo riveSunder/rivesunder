@@ -1,4 +1,4 @@
-# Writing by Q. Tyrell Davis
+# Selected Writing by Q. Tyrell Davis
 <div align="center">
   <em>
   For preprints and peer-reviewed articles, check my <a href="https://github.com/riveSunder/rivesunder/blob/master/papers.md">papers list</a> or my <a href="https://github.com/riveSunder/rivesunder/blob/master/papers.md">Semantic Scholar author page</a>. 
