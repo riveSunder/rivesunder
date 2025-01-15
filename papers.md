@@ -3,7 +3,7 @@
 _See also: [casual projects](https://github.com/riveSunder/rivesunder/blob/master/portfolio.md)_
 
 ## Peer-reviewed
-* Q. Tyrell Davis, ``Discretization-Dependent Dissolution of Gliders in (Dis)Continuous Systems: Non-Platonic Self-Organization in Complex Systems", Innovations in Machin    e Intelligence (IMI), vol.3, pp. 1-23, 2023. DOI: \url{https://doi.org/10.54854/imi2023.01}
+* Q. Tyrell Davis; July 22–26, 2024. "Non-Platonic Autopoiesis of a Cellular Automaton Glider in Asymptotic Lenia." ALIFE 2024: Proceedings of the 2024 Artificial Life Conference. (pp. 118). ASME. [https://doi.org/10.1162/isal\_a\_00786](https://doi.org/10.1162/isal\_a\_00786)
  
 * Q. Tyrell Davis, "Discretization-Dependent Dissolution of Gliders in (Dis)Continuous Systems: Non-Platonic Self-Organization in Complex Systems", Innovations in Machine Intelligence (IMI), vol.3, pp. 1-23, 2023. DOI: 10.54854/imi2023.01. https://doi.org/10.54854/imi2023.01
 
