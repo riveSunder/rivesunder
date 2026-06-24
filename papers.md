@@ -1,6 +1,6 @@
 # Publications
 
-_See also: [casual projects](https://github.com/riveSunder/rivesunder/blob/master/portfolio.md)_
+_See also: [casual projects](https://github.com/riveSunder/rivesunder/blob/master/project_portfolio.md)_
 
 ## Peer-reviewed
 * Q. Tyrell Davis. "Non-Platonic Autopoiesis of a Cellular Automaton Glider in Asymptotic Lenia." ALIFE 2024: Proceedings of the 2024 Artificial Life Conference. (pp. 118). ASME. (2024 July 22). [https://doi.org/10.1162/isal\_a\_00786](https://doi.org/10.1162/isal\_a\_00786). 
